@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demos
 
-### Calculator
+### Hello World
 
 ![Calculator](./screenshots/hello-world.jpeg)
