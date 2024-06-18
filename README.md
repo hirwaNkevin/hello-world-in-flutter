@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Calculator
 
-![Calculator](./screenshots/hello-world.jpeg.jpeg)
+![Calculator](./screenshots/hello-world.jpeg)
